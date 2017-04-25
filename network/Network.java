@@ -1,5 +1,15 @@
 package network;
 
+
+/*
+
+I DID NOT WRITE THIS CODE
+
+It was written by the professor of the related networking class
+ */
+
+
+
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.ByteArrayInputStream;

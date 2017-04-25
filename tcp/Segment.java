@@ -1,5 +1,15 @@
 package tcp;
 
+
+/*
+
+I DID NOT WRITE THIS CODE
+
+It was written by the professor of the related networking class
+ */
+
+
+
 import java.io.Serializable;
 
 public class Segment implements Serializable
